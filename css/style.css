@@ -1,0 +1,37 @@
+#resultContainer{
+  width: 100%;
+  margin: 24px 0 12px 0;
+  padding: 12px;
+  border: solid 2px #75d8ff;
+  background-color: #ffffff
+}
+
+.gtitle {
+  width: 538px;
+  max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #1e0fbe;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 512px;
+    display: block;
+    overflow: hidden;
+}
+
+.gurl {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #006621;
+    width: 510px;
+    margin-top: -4px;
+}
+
+.gdesc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #545454;
+    width: 510px;
+    margin-top: -2px;
+    line-height: 18px;
+}
