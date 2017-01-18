@@ -19,7 +19,7 @@
             </div>
           </div>
         </form>
-        <button id="textEnter">Enter</button>
+        <!-- <button id="textEnter">Enter</button> -->
       </div>
         <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3">
           <div id="resultContainer">
